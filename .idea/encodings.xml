@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/scripts/ModulesManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/header/HeaderLoginTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/header/HeaderTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/homePage/HomePageModule.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/homePage/HomePageTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/init/init_dev.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/main_bk.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/modules/about/AboutModule.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/modules/about/AboutTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/modules/contact/ContactModule.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/modules/home/HomeModule.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/modules/home/HomeTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/security.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/template/HeaderLoginTmpl.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/template/HeaderTmpl.html" charset="UTF-8" />
+  </component>
+</project>

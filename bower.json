@@ -3,7 +3,13 @@
   "private": true,
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
-    "modernizr": "~2.8.3"
+    "modernizr": "~2.8.3",
+    "angulike": "~1.2.0",
+    "angular-route": "~1.4.7",
+    "jquery": "~2.1.4",
+    "jquery-i18n-properties": "~1.2.0",
+    "angular-facebook": "~0.2.3",
+    "requirejs": "~2.1.21"
   },
   "overrides": {
     "bootstrap-sass": {
